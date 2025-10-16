@@ -54,9 +54,8 @@
 
 ## 📚 Currently Exploring
 
-- **Data Structures & Algorithms**: Improving problem-solving with C++  
-- **System Design Basics**: Building scalable and efficient architectures  
-- **Electronics Projects**: Digital communication and embedded systems  
+- **Data Structures & Algorithms**: Improving problem-solving with C++   
+- **Electronics Projects**: Made a home automation project using iot  
 
 ---
 
